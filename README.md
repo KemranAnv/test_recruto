@@ -14,7 +14,7 @@
 
 ## Пример использования по ссылке
 ### URL:
-    http://localhost:5000/?name=Recruto&message=Давай%20дружить
+    http://test-recruto-y191.onrender.com/?name=uto&message=Давай%20дружить
 
 ### Вывод:
     Hello Recruto! Давай дружить!
